@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/bus1"
+            android:icon="@drawable/busoriginal"
+            android:title="Bus" />
+        <item
+            android:id="@+id/police1"
+            android:icon="@drawable/policestation"
+            android:title="Police Station" />
+
+        <item
+            android:id="@+id/hospital1"
+            android:icon="@drawable/hospitaloriginal"
+            android:title="Hospital" />
+
+        <item
+            android:id="@+id/resturent1"
+            android:icon="@drawable/hoteloriginal"
+            android:title="Restaurent" />
+        <item
+            android:id="@+id/picnic1"
+            android:icon="@drawable/picnicoriginal"
+            android:title="Picnic" />
+        <item
+            android:id="@+id/emergency1"
+            android:icon="@drawable/emergencyoriginal"
+            android:title="Emergency" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

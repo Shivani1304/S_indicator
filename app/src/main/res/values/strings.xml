@@ -1,0 +1,501 @@
+<resources>
+    <string name="app_name">S_indicator</string>
+    <string name="action_favorite">NearBySearch</string>
+    <string name="title_activity_bus">Bus</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="API_Key">AIzaSyB-2CGs4_riv1rfZpWXBtYL_3on3gJqMS4</string>
+    <string name="mykey">AIzaSyB8KOu4-DUcYep8aIYjhoLboEzQW7HWlMA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="gotIt">GOT IT</string>
+
+    <string name="slide1_title">Hello</string>
+    <string name="slide1_des">This is first slide</string>
+
+    <string name="slide2_title">Welcome to android</string>
+    <string name="slide2_des">This is second slide</string>
+
+    <string name="slide3_title">Enjoy the app</string>
+    <string name="slide3_des">This is third slide</string>
+
+    <string name="slide4_title">More Features</string>
+    <string name="slide4_des">This is forth slide</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="govname">
+        <item>Chiranjiv Children and General Hospital</item>
+        <item>Krishna Hospital</item>
+        <item>Nirmal Hospital</item>
+        <item>Baps Pramukh Swami Hospital</item>
+        <item>Surat Wockhardt Heart Hospital</item>
+        <item> 21st Century Hospital</item>
+        <item> Asutosh Hospital</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Thakordwar Society Building, 1st Floor, Gali No. 1 and 2, Rander Road, Surat - 395005</item>
+        <item>Ruchita Complex, 1st Floor, Katargam, Surat - 395004</item>
+        <item>No. 182, Sagrampura Ring Road, Sagrampura, Surat ­ 395002</item>
+        <item>No. 17, Adajan Circle, Shri Pramukh Swami Maharaj Margarg, Adajan, Surat ­ 395009</item>
+        <item>No. 24, Athwa Lines, Choryasi, Surat ­ 395001</item>
+        <item>Dawer Plaza, No. B­51, Station Road, Udhana Udhyog Nagar, Surat 395003</item>
+        <item>No. 121, Rajashri Hall Road, Kailash Nagar, Majura Gate, Surat ­ 395002
+</item>
+    </string-array>
+
+    <string-array name="contact">
+        <item>+91 261 2765064 </item>
+        <item>+91 261 2530962 </item>
+        <item>+91 261 2333999 </item>
+        <item>+91 261 2781001 </item>
+        <item>+91 261 6694444 </item>
+        <item>+91 261 2490190 </item>
+        <item>+91 261 2476300 </item>
+    </string-array>
+
+    <string-array name="priname">
+        <item>Hirani Children Hospital</item>
+        <item>Leprosy Hospital</item>
+        <item>Leprosy Hospital</item>
+        <item>Malvia Hospital</item>
+        <item>Amruta Hospital</item>
+        <item>Sudeep Hospital and Maternity Home</item>
+        <item>Patel Hospital and Health Centre</item>
+    </string-array>
+
+    <string-array name="priadr">
+        <item>Shiv Complex, Bhatar Road, Bhatar Road, Surat - 395007</item>
+        <item>Sardar Complex, Katargam Road, Bhatar, Surat - 395007</item>
+        <item>Ashwani Kumar Road, A.K. Road, Surat - 395008</item>
+        <item>Sandhya Darshan Apartment, 2nd Floor, Adajan Road, Surat 395009</item>
+        <item>Raj Complex, Bhatar Road, Surat - 395007</item>
+        <item>Ratan Sagar Apartment, Varachha Road, Surat - 395006</item>
+        <item>Deepkamal Building, 4th Floor, B Block, Varachha Road, Surat 395006</item>
+    </string-array>
+
+    <string-array name="pricontact">
+        <item>+91 261 2262021</item>
+        <item>+91 261 2532545</item>
+        <item>+91 261 2549613</item>
+        <item>+91 261 2782492</item>
+        <item>+91 261 2244979</item>
+        <item>+91 261 8545973</item>
+        <item>+91 75677 26333</item>
+    </string-array>
+
+    <string-array name="Fivename">
+        <item>The Gateway Hotel/Hotel Taj</item>
+        <item>The World</item>
+    </string-array>
+
+    <string-array name="Fiveadr">
+        <item>Athwalines,Surat</item>
+        <item>Parvat Patia , Surat</item>
+    </string-array>
+
+    <string-array name="fourname">
+        <item>Ras Resort</item>
+    </string-array>
+
+    <string-array name="fouradr">
+        <item>Silvassa , Gujarat</item>
+    </string-array>
+
+    <string-array name="threename">
+        <item>Hotel Vetro Inn</item>
+        <item>Hotel Relax Inn</item>
+        <item>Hotel Balwas</item>
+        <item>Welcome Palace</item>
+        <item>Hotel Bellevue/Budget Inn Bellevue</item>
+        <item>Hotel Stay Inn</item>
+
+    </string-array>
+
+    <string-array name="threeadr">
+        <item>Sumul Dairy Road , Surat</item>
+        <item>Ring Road , Surat</item>
+        <item>Delhi Gate , Surat</item>
+        <item>Piplod , Surat</item>
+        <item>Station Road , Surat</item>
+        <item>Ring Road , Surat</item>
+    </string-array>
+
+    <string-array name="twoname">
+        <item>Hotel Venus</item>
+        <item>Hotel Deepmala</item>
+        <item>Hotel Executive</item>
+        <item>Hotel Hazira</item>
+
+    </string-array>
+
+    <string-array name="twoadr">
+        <item>Laldarwaja , Surat</item>
+        <item>Station Road , Surat</item>
+        <item>Ichhapore , Surat</item>
+        <item>Hazira , Surat</item>
+    </string-array>
+
+    <!--Emergency Contact List-->
+    <string-array name="Police">
+        <item>Salabatpura</item>
+        <item>Katargam</item>
+        <item>Umara Police</item>
+        <item>Varachha</item>
+        <item>Athwalines</item>
+        <item>Kapodra</item>
+        <item>Udhna</item>
+        <item>Limbayat</item>
+        <item>Pandesara</item>
+        <item>Sachin</item>
+        <item>Ichhapore</item>
+        <item>Mahidharpura</item>
+        <item>Crime Branch Police Station</item>
+        <item>Railway police Station</item>
+    </string-array>
+    <string-array name="Pcontact">
+        <item>0261 2324229</item>
+        <item>0261 2482485</item>
+        <item>0261 2666295</item>
+        <item>0261 254496</item>
+        <item>0261 2479173</item>
+        <item>0261 2577579</item>
+        <item>0261 2277155</item>
+        <item>0261 2277001</item>
+        <item>0261 2890200</item>
+        <item>0261 2372258</item>
+        <item>0261 2860197</item>
+        <item>0261 2422163</item>
+        <item>0261 7422382</item>
+        <item>0261 7434501</item>
+    </string-array>
+
+    <string-array name="Amb">
+        <item>Ambulance Dead Body Service</item>
+        <item>Civil Hospital</item>
+        <item>Ambulance Services SMC</item>
+        <item>Nirmal Chilldren Hospital</item>
+        <item>Ramkrishna Charitable Trust</item>
+        <item>Surti Modh Vanik</item>
+        <item>C/o. Jay MahaLaxmi Distributors</item>
+        <item>Love and Care Maternity Home</item>
+        <item>Sarvajanik Lokhat Hospital</item>
+
+    </string-array>
+
+    <string-array name="AmbNum">
+        <item>0261 2414195</item>
+        <item>0261 22444456</item>
+        <item>0261 2414139</item>
+        <item>0261 2333999</item>
+        <item>0261 2482659</item>
+        <item>0261 2418095</item>
+        <item>0261 2683535</item>
+        <item>0261 2683535</item>
+        <item>0261 2422080</item>
+
+    </string-array>
+
+    <string-array name="FireStation">
+        <item>Head office Fire Station</item>
+        <item>Muglisara</item>
+        <item>Adajan</item>
+        <item>Bhatar</item>
+        <item>Ghanchi Sheri</item>
+        <item>Mora Bhagal</item>
+        <item>Navasari Bazar</item>
+        <item>Pandesara</item>
+        <item>Varachha</item>
+        <item>Ring Road</item>
+    </string-array>
+
+    <string-array name="FireNum">
+        <item>0261 2439296</item>
+        <item>0261 2414195</item>
+        <item>0261 2690903</item>
+        <item>0261 2236622</item>
+        <item>0261 2450066</item>
+        <item>0261 2772710</item>
+        <item>0261 2418272</item>
+        <item>0261 2893618</item>
+        <item>0261 2570611</item>
+        <item>0261 2328909</item>
+    </string-array>
+
+    <string-array name="Railway_name">
+        <item>Inquiry</item>
+        <item>Recorded Inquiry</item>
+        <item>Ticket Confirmation</item>
+        <item>Udhna Rlt. Station</item>
+    </string-array>
+
+    <string-array name="Railway_contact">
+        <item>131</item>
+        <item>133</item>
+        <item>135</item>
+        <item>0261 2677208</item>
+    </string-array>
+
+    <string-array name="Airport_name">
+        <item>Airport (Mugdalla)</item>
+        <item>Air India Inquiry (Kotsafil)</item>
+    </string-array>
+
+    <string-array name="Airport_contact">
+        <item>0261 2727271</item>
+        <item>0261 2422357</item>
+    </string-array>
+
+    <string-array name="CRP_contact">
+        <item>0261 2423751</item>
+        <item>0261 2423756</item>
+    </string-array>
+    <string-array name="CRP_name">
+        <item>Surat Municipal Corp.(SMC)</item>
+        <item>Surat Municipal Corp.(SMC)</item>
+    </string-array>
+
+    <string-array name="Bloodbank_name">
+        <item>Maruti Charitable Hospital</item>
+        <item>Parsi Raktadan Kendra,Sayyadpura</item>
+        <item>Civil Hospital, Majura Gate</item>
+        <item>Samarpan Raktadan Kendra</item>
+        <item>Surat Health Care Foundation</item>
+        <item>Lokhat Hospital,Rampura</item>
+        <item>Surat Raktadan Kendra,Gopipura</item>
+        <item>Lok Samarpan raktadan Kendra</item>
+
+    </string-array>
+
+    <string-array name="Bloodbank_contact">
+        <item>0261 7413601</item>
+        <item>0261 7423992</item>
+        <item>0261 3664456</item>
+        <item>0261 8347575</item>
+        <item>0261 7417783</item>
+        <item>0261 2422080</item>
+        <item>0261 2417754</item>
+        <item>0261 247575</item>
+
+    </string-array>
+
+    <string-array name="Eyebank_name">
+        <item>Arpan Eye Bank</item>
+        <item>Suresh Jivraj Eye Bank</item>
+        <item>Lok Drishti Eye Bank, C/o Gayatri Hospital</item>
+    </string-array>
+
+    <string-array name="Eyebank_contact">
+        <item>0261 2470555</item>
+        <item>0261 2470102</item>
+        <item>0261 2545232</item>
+    </string-array>
+
+    <string-array name="AnimalCare">
+        <item>Nature Club Surat</item>
+        <item>Prayas Team Environment</item>
+        <item>Sanjivani Animal Welfare Organization</item>
+    </string-array>
+
+    <string-array name="AnimalNum">
+        <item>091 9825057678</item>
+        <item>091 9825119081</item>
+        <item>091 9825107880</item>
+    </string-array>
+
+    <string-array name="NewsPaper">
+        <item>Gujarat Samachar</item>
+        <item>Gujarat Mitra</item>
+        <item>Indian Express</item>
+        <item>Loktej (Hindi)</item>
+        <item>Nav Gujarat</item>
+        <item>The Sandesh</item>
+        <item>The Times Of India</item>
+        <item>The Economic Time</item>
+        <item>Navnirman Press</item>
+        <item>Buldozar</item>
+        <item>Dhabkar</item>
+    </string-array>
+
+    <string-array name="NewsPaperNum">
+        <item>0261 2634545</item>
+        <item>0261 3478703</item>
+        <item>0261 3473016</item>
+        <item>0261 2234504 </item>
+        <item>0261 2630404</item>
+        <item>0261 4089000</item>
+        <item>0261 2255843</item>
+        <item>0261 2255843</item>
+        <item>0261 6506604</item>
+        <item>0261 7481438</item>
+        <item>091 9426188642</item>
+    </string-array>
+    <string-array name="Tourist">
+        <item>Gujarat Pravas Nigam Ltd.</item>
+    </string-array>
+
+    <string-array name="TouristNum">
+        <item>0261 3476586</item>
+    </string-array>
+    <string-array name="Electricity_name">
+        <item>Surat Electric City (SEC)</item>
+        <item>Electricity Supply Surat Rural</item>
+        <item>GEB Uttran Power Station</item>
+        <item>GEB Bhesthan</item>
+        <item>GEB Jhangirpura</item>
+        <item>GEB Kadodara</item>
+        <item>GEB Kamrej</item>
+        <item>GEB Olpad</item>
+        <item>GEB Pandesarra</item>
+        <item>GEB Piplod</item>
+        <item>GEB Punagam</item>
+        <item>GEB Rander</item>
+        <item>GEB Sachin</item>
+        <item>GEB Sayan</item>
+        <item>GEB Udhana</item>
+        <item>GEB Varachha</item>
+        <item>S E C Complaint</item>
+    </string-array>
+
+    <string-array name="Electricity_contact">
+        <item>0261 2423399</item>
+        <item>0261 2573729</item>
+        <item>0261 2499312</item>
+        <item>0261 2890228</item>
+        <item>0261 2762670</item>
+        <item>0261 22271008</item>
+        <item>0261 2756977</item>
+        <item>0261 21222058</item>
+        <item>0261 2890258</item>
+        <item>0261 2254390</item>
+        <item>0261 2859053</item>
+        <item>0261 2776122</item>
+        <item>0261 2370279</item>
+        <item>0261 21242123</item>
+        <item>0261 2277248</item>
+        <item>0261 2573729</item>
+        <item>1912</item>
+    </string-array>
+
+    <string-array name="Junctions">
+        <item>Udhna Darwaja</item>
+        <item>Satya Nagar</item>
+        <item>Kharwar Nagar</item>
+        <item>Udhna Tran Rasta</item>
+        <item>Udhna Bus Stand</item>
+        <item>Udhna Academy</item>
+        <item>Laxmi Narayan Temple</item>
+        <item>Daksheswar Mahadev</item>
+        <item>Pandesara G.I.D.C.</item>
+        <item>Kamnath Mahadev</item>
+        <item>Navin Flourine</item>
+        <item>Bhestan Naher</item>
+        <item>Bhagwati Industrial Estate</item>
+        <item>Unn Naka</item>
+        <item>Unn Industrial Estate</item>
+        <item>Unn Char Rasta</item>
+        <item>Green Park</item>
+        <item>Sachin G.I.D.C.</item>
+        <item>Y-Junction Udhna-Magdalla Road</item>
+        <item>Maharana Pratap</item>
+        <item>S.D. Jain School</item>
+        <item>J.H.Ambani School</item>
+        <item>Someshwar Junction</item>
+        <item>V.N.S.G. University</item>
+        <item>V.N.S.G.U. Convention Hall</item>
+        <item>Centre for Social Studies</item>
+        <item>Anuvrat Dwar Junction (West)</item>
+        <item>Anuvrat Dwar Junction (East)</item>
+        <item>Panas Gam Junction</item>
+        <item>Ishwar Farm Junction</item>
+        <item>Jamna Nagar Junction</item>
+        <item>Rupali Junction</item>
+        <item>Prajapita Brahmakumari Marg</item>
+        <item>Unique Hospital</item>
+        <item>Khatodara G.I.D.C.</item>
+        <item>Kharwar Nagar Khadi</item>
+        <item>Bhathena Junction</item>
+        <item>Samrat Vidhyalay</item>
+        <item>Model Town Junction</item>
+        <item>Parvat Patiya</item>
+        <item>Amezia Amuzement Park</item>
+        <item>Vishwakarma Junction</item>
+        <item>Bhaiya Nagar</item>
+        <item>Puna Gam Junction</item>
+        <item>Puna Saroli Junction</item>
+        <item>Vanmali Junction (West)</item>
+        <item>Vanmali Junction</item>
+        <item>Simada Naher Junction</item>
+        <item>Simada Junction</item>
+        <item>Yogi Nagar</item>
+        <item>Swagat Society</item>
+        <item>S.M.V.S. Swaminarayan Temple</item>
+        <item>Sarthana Nature Park</item>
+        <item>ONGC Colony</item>
+        <item>Magdalla Gam</item>
+        <item>Y Junction Dummas Road</item>
+        <item>Magdalla T- Junction</item>
+        <item>Rundhnath Mahadev Temple</item>
+        <item>Govardhan Nathji Haveli</item>
+        <item>Lancers Army School</item>
+        <item>Piplod</item>
+        <item>Kargil Chowk</item>
+        <item>SVNIT</item>
+        <item>Pal R.T.O.</item>
+        <item>Sanjeevkumar Auditorium</item>
+        <item>Adajan Gam</item>
+        <item>Anand Mahal Road</item>
+        <item>Swaminarayan Chowk</item>
+        <item>Adajan Patiya</item>
+        <item>Shankeshwar Chowk</item>
+        <item>Navyug College</item>
+        <item>SMC West Zone Office</item>
+        <item>Tadwadi</item>
+        <item>Palanpur Patiya</item>
+        <item>Ramnagar</item>
+        <item>Mora Bhagal</item>
+        <item>Jahangirpura Community Hall</item>
+        <item>Dr. Shyamaprasad Mukherji Bridge</item>
+        <item>Dabholi Gam</item>
+        <item>SMVS Swaminarayan Temple (Dabholi)</item>
+        <item>Shri Sahajanand Chowk</item>
+        <item>Bapasitaram Chowk</item>
+        <item>Hare Krishna Circle</item>
+        <item>SMC North Zone</item>
+        <item>Gajera Circle</item>
+        <item>Pandit Shyamjikrishna Verma Bridge</item>
+        <item>Kosad Fire Station</item>
+        <item>Kosad Housing Board</item>
+        <item>Kosad EWS-H1</item>
+        <item>Kosad EWS-H2</item>
+        <item>Kosad Depo</item>
+        <item>Tulshidham</item>
+        <item>Chiku Wadi</item>
+        <item>Patrakar Colony</item>
+        <item>Kailash Nagar Junction</item>
+        <item>Panchmukhi Hanuman Mandir</item>
+        <item>Althan Khadi</item>
+        <item>Althan Canal</item>
+        <item>Shyam Mandir</item>
+        <item>Althan-Bharthana</item>
+        <item>Bharthana</item>
+        <item>China Gate</item>
+        <item>Fulpada road BRTS</item>
+        <item>Swaminarayan Mandir, Rustombaug</item>
+        <item>Vallabhacharya road BRTS</item>
+        <item>Hirabaug BRTS</item>
+        <item>Kapodara BRTS</item>
+        <item>Lambe Hanuman road BRTS</item>
+        <item>Anjani Bootbhavani</item>
+        <item>Sitanagar BRTS</item>
+        <item>Puna Canal BRTS</item>
+
+    </string-array>
+</resources>
+

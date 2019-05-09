@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/sc"
+        android:orientation="vertical">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.sony.emergencyservice.ListNum">
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/policestation"
+            android:text="PoliceStation"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/colorAccent"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Ambulances"
+            android:text="Ambulances"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/colorPrimary"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Firestation"
+            android:text="Firestation"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Orange"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Railway"
+            android:text="Railway Office"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Teal"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Airport"
+            android:text="Airport Office"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Teal_light"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Municipal"
+            android:text="Municipal Office"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Amber"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/BloodBank"
+            android:text="BloodBank"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Red_light"
+            android:layout_gravity="center_horizontal"
+            />
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/EyeBank"
+            android:text="EyeBank"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Blue_light"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Animal_care"
+            android:text="Animal Care"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Blue_Gray"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Newspaper"
+            android:text="Newspaper Office"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Lime_light"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Tourist"
+            android:text="Tourists Information"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Brown"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/Electricity"
+            android:text="Electricity Issues"
+            android:textSize="20dp"
+            android:onClick="click"
+            android:background="@color/Purpal"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+    </ScrollView>
+    <include layout="@layout/boom_menu"></include>
+</RelativeLayout>
